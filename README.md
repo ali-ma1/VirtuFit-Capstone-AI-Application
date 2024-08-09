@@ -47,3 +47,5 @@
 > - The team plans to expand VirtuFit’s features, potentially incorporating more advanced health metrics and AI-driven insights.  
 > - Ongoing learning and project involvement are anticipated to further enhance the team's capabilities and contribute to future innovations in the field of fitness technology.
 > - As we aim to commercialize VirtuFit, I will provide only the project report and selected code snippets.
+
+During the Innovation Fair, we showcased our project with a poster and a small website featuring visuals. The poster PDF will be included in this repository, and you can visit the website using this link: https://noorzfa.wixsite.com/virtufitblu
